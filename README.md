@@ -1,3 +1,3 @@
-# i forgor
+# i forgor💀
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Epik4u&theme=dark&show_icons=true)
-[![2Epik4u's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Epik4u)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Epik4u&layout=compact&theme=dark&showicons=true)]
