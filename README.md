@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thunderzapper&theme=nord&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunderzapper&layout=compact&theme=nord&showicons=true)
+Yo what up
