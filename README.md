@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Epik4u&theme=nord&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Epik4u&layout=compact&theme=nord&showicons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2Epik4u&theme=tokyonight&show_icons=true&border_radius=15&border_color=B4BEFE) 
